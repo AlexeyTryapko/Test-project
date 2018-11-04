@@ -1,0 +1,23 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "Project for tests practice",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyTryapko/Test-project.git"
+  },
+  "author": "Alexey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexeyTryapko/Test-project/issues"
+  },
+  "homepage": "https://github.com/AlexeyTryapko/Test-project#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-google": "^0.11.0"
+  }
+}
